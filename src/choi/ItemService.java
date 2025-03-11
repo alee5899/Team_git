@@ -1,4 +1,4 @@
 package choi;
 
-public class ItemService {
+public interface ItemService {
 }
